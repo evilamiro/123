@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\calc1\calc1\bin\Debug\netcoreapp3.1\calc1.exe
+C:\Users\lenovo\source\repos\calc1\calc1\bin\Debug\netcoreapp3.1\calc1.deps.json
+C:\Users\lenovo\source\repos\calc1\calc1\bin\Debug\netcoreapp3.1\calc1.runtimeconfig.json
+C:\Users\lenovo\source\repos\calc1\calc1\bin\Debug\netcoreapp3.1\calc1.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\calc1\calc1\bin\Debug\netcoreapp3.1\calc1.dll
+C:\Users\lenovo\source\repos\calc1\calc1\bin\Debug\netcoreapp3.1\calc1.pdb
+C:\Users\lenovo\source\repos\calc1\calc1\obj\Debug\netcoreapp3.1\calc1.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\calc1\calc1\obj\Debug\netcoreapp3.1\calc1.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\calc1\calc1\obj\Debug\netcoreapp3.1\calc1.dll
+C:\Users\lenovo\source\repos\calc1\calc1\obj\Debug\netcoreapp3.1\calc1.pdb
